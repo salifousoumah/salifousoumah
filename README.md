@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salifousoumah
-- 👀 I’m interested in Network, Security, Cybersecurity fields
-- 🌱 I’m currently learning on Cybersecurity
-- 💞️ I’m looking to collaborate on Network, Security, Cybersecurity topics
+- 👀 I’m interested in Network (Cisco CCNP ENCOR + ENARSI), Security(Firewalling : Fortinet Fotigate Firewall, Cisco Firewall ASA and Palo ALto), Cybersecurity fields
+- 🌱 I’m currently learning on Cybersecurity domain: CISSP - Certified Ethical Hacker -  CompTIA Security+ - Cybersecurity SOC SIEM and SOC ELASTIC
+- 💞️ I’m looking to collaborate on Network, Security, Cybersecurity topics 
 - 📫 How to reach me at soumahsalifou75@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
