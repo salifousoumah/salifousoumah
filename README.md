@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @salifousoumah, I work as Network and Security Engineer 
+- 👋 Hi, I’m @salifousoumah, I work as Network and Security Engineer
+- 📜 Certifications
+   - CCNA, CCNP ENARSI, CompTIA Security+, Fortigate NSE7, Cisco ASA firewall
 - 👀 I’m interested in Network (Cisco CCNP ENCOR/ENARSI + Cisco CCIE Infrastructure), Security(Firewalling: Fortinet Fotigate Firewalls, Cisco ASA Firewalls, and Palo ALto), Cybersecurity fields
 - 🌱 I’m currently learning on Cybersecurity domain: CISSP - Certified Ethical Hacker -  CompTIA Security+ - Cybersecurity SOC SIEM and SOC ELASTIC
 - 💞️ I’m looking to collaborate on Network, Security, Cybersecurity topics 
@@ -8,9 +10,7 @@
 - 🛠 Skills & Tools
    - Cisco CCNAP, Fortinet, Wireshark, Palo Alto, Stormshield, Nmap, Kali Linux, Splunk, Python, Bash, Firewalls Cisco ASA, Palo AlTO, Stormshield, Fortinet, IDS/IPS
    - Monitoring tools : (Kacti, Centreon, PRTG, Stablenet), CMDB, SOC SIEM and SOC ELASTIC,CompTIA Security+,
-   - 
-📜 Certifications
-   - CCNA, CCNP ENARSI, CompTIA Security+, Fortigate NSE7, Cisco ASA firewall
+     
 
 🧪 Projects / Labs
   - Detail practical work:
